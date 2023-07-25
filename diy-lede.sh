@@ -32,6 +32,8 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 git clone https://github.com/garypang13/luci-app-eqos package/luci-app-eqos  #内网IP限速工具
 
 
+
+
 #passwall出国软件
 svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol/luci-app-passwall package/luci-app-passwall
 svn co https://github.com/xiaorouji/openwrt-package/trunk/package/brook package/brook
